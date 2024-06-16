@@ -21,17 +21,17 @@ Mục tiêu của bài này là đếm số lần xuất hiện mỗi từ trong
 
 Output: Từ và số lần xuất hiện của từ đó
 
-![image](https://github.com/ThuyQuynh2407/BigData/assets/171242217/6eaefba1-2d4d-4911-93f2-7e8bce76535c)
+![Screenshot 2024-06-02 130610](https://github.com/ThuyQuynh2407/BigDataEssentials/assets/171242217/45ec6ca7-9e7a-4363-a682-8c861859dec8)
 
 ### WordLength
 Mục tiêu của bài này là đếm số lần xuất hiện mỗi loại từ “small”, “tiny”, “medium”, “big” xuất hiện bao nhiêu lần
 
-![image](https://github.com/ThuyQuynh2407/BigData/assets/171242217/aa93ef8b-e16f-46a8-808f-793d7cdb5d88)
+![Screenshot 2024-06-02 130435](https://github.com/ThuyQuynh2407/BigDataEssentials/assets/171242217/5a885dfb-3562-4a1e-8638-4b061c763e0a)
 
 ### FriendCount
 Mục tiêu của bài này là đếm số lượng bạn bè của mỗi người, output sẽ in ra tên của một người và số lượng bạn bè của người đó là bao nhiêu
 
-![image](https://github.com/ThuyQuynh2407/BigData/assets/171242217/53a1bd1e-2927-44cb-b944-4c3a7cde9b4f)
+![Screenshot 2024-06-02 130315](https://github.com/ThuyQuynh2407/BigDataEssentials/assets/171242217/3b47b781-83e1-487b-8719-a2b109065df2)
 
 ### Comprehension
 Tập input là thư mực Comprehension chứa 2 file txt là Comprehension1.txt và Comprehension2.txt
@@ -39,4 +39,5 @@ Tập input là thư mực Comprehension chứa 2 file txt là Comprehension1.tx
 Mục đích của bài này là cho biết từ đó thuộc file nào
 
 Output: Hiện ta từ đó và file mà có chứa từ đó
-![image](https://github.com/ThuyQuynh2407/BigData/assets/171242217/392a4b1d-09a0-4861-b607-1466768bd73a)
+
+![Screenshot 2024-06-02 130640](https://github.com/ThuyQuynh2407/BigDataEssentials/assets/171242217/ff96e103-e4d2-4100-a34d-bf9b905a11c6)
